@@ -1,6 +1,14 @@
-# IR-Project
-Project for Information Retrieval
+# Calculating Search Rank Consensus and Disagreement
+## CS 4501/6501 - Information Retrieval : University of Virginia
 
-Aditi Narvekar, Andrea Chang, Felix Park, Nikhil Bhaip
+Andrea Chang, Aditi Narvekar, Nikhil Bhaip, Felix Park
+  
+  
+  
+<br><br/>
+<br><br/>
+<br><br/>
+  
+  
 
-Thanks to Professor Hongning Wang for teaching us IR and advising us on this project
+and felix
